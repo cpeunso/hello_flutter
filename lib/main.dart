@@ -16,14 +16,14 @@ class MyApp extends StatelessWidget {
         body: Column(
           children: [
             Text(
-              "Hello flutter",
+              "Hello fluttder",
               style: TextStyle(
                 fontSize: 28,
               ),
             ),
             TextField(
               decoration: InputDecoration(
-                labelText: "이메삼일오사",
+                labelText: "이메삼일이삼사이메일",
               ),
             ),
             TextField(
