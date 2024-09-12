@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             ),
             TextField(
               decoration: InputDecoration(
-                labelText: "이메삼일",
+                labelText: "이메삼일이삼사이메일",
               ),
             ),
             TextField(
