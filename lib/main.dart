@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         body: Column(
           children: [
             Text(
-              "Hello flutter",
+              "Hello fluttder",
               style: TextStyle(
                 fontSize: 28,
               ),
